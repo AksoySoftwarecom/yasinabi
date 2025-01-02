@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Yasin Ekmekci - Ingeniero de Software & Desarrollador Full Stack",
+    "description": "Construyendo experiencias digitales ladrillo a ladrillo. Ingeniero de software apasionado por crear soluciones escalables e innovadoras."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Mí",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "home": {
+    "title": "Construyendo experiencias digitales ladrillo a ladrillo",
+    "subtitle": "Ingeniero de software apasionado por crear soluciones escalables e innovadoras"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "experience": "Experiencia",
+    "skills": "Habilidades"
+  },
+  "contact": {
+    "title": "Contacto",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Tu Email",
+      "message": "Tu Mensaje",
+      "send": "Enviar Mensaje"
+    }
+  },
+  "projects": {
+    "title": "Proyectos"
+  }
+}

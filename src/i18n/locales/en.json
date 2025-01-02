@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Yasin Ekmekci - Software Engineer & Full Stack Developer",
+    "description": "Building digital experiences brick by brick. Software engineer passionate about creating scalable and innovative solutions.",
+    "about_title": "About Me - Yasin Ekmekci",
+    "about_description": "Learn about my experience, skills, and journey as a software engineer.",
+    "projects_title": "Projects - Yasin Ekmekci",
+    "projects_description": "Explore my portfolio of web development and software engineering projects.",
+    "contact_title": "Contact - Yasin Ekmekci",
+    "contact_description": "Get in touch with me for collaboration, opportunities, or questions."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Building digital experiences brick by brick",
+    "subtitle": "Software engineer passionate about creating scalable and innovative solutions"
+  },
+  "about": {
+    "title": "About Me",
+    "experience": "Experience",
+    "skills": "Skills",
+    "timeline": {
+      "2023": {
+        "title": "Senior Software Engineer",
+        "description": "Leading development teams and architecting scalable solutions"
+      },
+      "2020": {
+        "title": "Full Stack Developer",
+        "description": "Building end-to-end web applications and mentoring junior developers"
+      },
+      "2018": {
+        "title": "Frontend Developer",
+        "description": "Creating responsive and interactive user interfaces"
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "address": "Istanbul, Turkey",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send Message"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "ecommerce": {
+      "title": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform built with React and Node.js"
+    },
+    "taskmanager": {
+      "title": "Task Management App",
+      "description": "A collaborative task management application with real-time updates"
+    },
+    "weather": {
+      "title": "Weather Dashboard",
+      "description": "A weather dashboard with interactive maps and forecasts"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

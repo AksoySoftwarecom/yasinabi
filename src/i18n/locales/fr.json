@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Yasin Ekmekci - Ingénieur Logiciel & Développeur Full Stack",
+    "description": "Construction d'expériences numériques brique par brique. Ingénieur logiciel passionné par la création de solutions évolutives et innovantes."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Construction d'expériences numériques brique par brique",
+    "subtitle": "Ingénieur logiciel passionné par la création de solutions évolutives et innovantes"
+  },
+  "about": {
+    "title": "À Propos",
+    "experience": "Expérience",
+    "skills": "Compétences"
+  },
+  "contact": {
+    "title": "Contact",
+    "form": {
+      "name": "Votre Nom",
+      "email": "Votre Email",
+      "message": "Votre Message",
+      "send": "Envoyer le Message"
+    }
+  },
+  "projects": {
+    "title": "Projets"
+  }
+}

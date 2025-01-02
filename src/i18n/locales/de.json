@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Yasin Ekmekci - Softwareingenieur & Full-Stack-Entwickler",
+    "description": "Digitale Erlebnisse Stein für Stein aufbauen. Softwareingenieur mit Leidenschaft für skalierbare und innovative Lösungen."
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Mich",
+    "projects": "Projekte",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "title": "Digitale Erlebnisse Stein für Stein aufbauen",
+    "subtitle": "Softwareingenieur mit Leidenschaft für skalierbare und innovative Lösungen"
+  },
+  "about": {
+    "title": "Über Mich",
+    "experience": "Erfahrung",
+    "skills": "Fähigkeiten"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "form": {
+      "name": "Ihr Name",
+      "email": "Ihre E-Mail",
+      "message": "Ihre Nachricht",
+      "send": "Nachricht Senden"
+    }
+  },
+  "projects": {
+    "title": "Projekte"
+  }
+}
